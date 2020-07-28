@@ -1,12 +1,11 @@
 <h1  align="center">
-  <img src="https://i.ibb.co/cJKvXHf/logo.png" alt="logo" border="0">
+  <img src="https://" alt="logo" border="0">
 </h1>
   
 ## 📍 Index
 
-- [Play me!](#play)
 
-- [About the project](#About)
+- [About](#About)
 
 - [Applied technologies](#applied-technologies)
 
@@ -15,11 +14,8 @@
 - [How to contribute](#hot-to-contribute)
   
 
-## 🎮 
-[Play me](https://viniciusrma.github.io/piano_gameplay/)
-
 <a  id="about"></a>
-## 📑 About the project
+## 📑 About
 
 Welcome! 
 
