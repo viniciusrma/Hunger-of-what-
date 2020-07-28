@@ -1,68 +1,92 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<h1  align="center">
+  <img src="https://i.ibb.co/cJKvXHf/logo.png" alt="logo" border="0">
+</h1>
+  
+## 📍 Index
 
-## Available Scripts
+- [Play me!](#play)
 
-In the project directory, you can run:
+- [About the project](#About)
 
-### `yarn start`
+- [Applied technologies](#applied-technologies)
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+- [How to use](#how-to-use)
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+- [How to contribute](#hot-to-contribute)
+  
 
-### `yarn test`
+## 🎮 
+[Play me](https://viniciusrma.github.io/piano_gameplay/)
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+<a  id="about"></a>
+## 📑 About the project
 
-### `yarn build`
+Welcome! 
 
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
+This is a website called “Hunger of what?!”, for searching for food nor restaurants, made with React, in my very first react project by myself.
 
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
+<a  id="applied-technologies"></a>
+## 💻 Applied technologies
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+The project was developed using the following technologies:
 
-### `yarn eject`
+- [React](https://reactjs.org/)
+- [Bootstrap](https://getbootstrap.com/)
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+<a  id="how-to-use"></a>
+## ⁉ How to use
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+- ### **Prerequisites**
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+- It is necessary to have the **[Node.js](https://nodejs.org/en/)** installed
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+- It is necessary to have a package manager installed, like **[NPM](https://www.npmjs.com/)** or **[Yarn](https://yarnpkg.com/)**
 
-## Learn More
+- It is necessary to have the **[React](https://reactjs.org/)** installed in global way.
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+1. Cloning the application:
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+```sh
 
-### Code Splitting
+$ git clone https://github.com/viniciusrma/Hunger-of-what-
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
+```
 
-### Analyzing the Bundle Size
+2. Running the Application:
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
+```sh
 
-### Making a Progressive Web App
+# Install the environment
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
+$ npm install -g create-react-app
 
-### Advanced Configuration
+# Launch web application
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
+$ cd hungerofwhat
 
-### Deployment
+$ npm start
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
 
-### `yarn build` fails to minify
+```
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+<a  id="hot-to-contribute"></a>
+## ♻️ How to contribute
+
+- Fork this repository;
+
+- Create a branch with you feature: `git checkout -b my-feature`;
+
+- Commit your changes: `git commit -m 'feat: My new feature'`;
+
+- Push into your: `git push origin my-feature`;
+
+---
+
+<h4  align="center">
+Made by <a  href="https://www.linkedin.com/in/viniciusrma/"  target="_blank">Vinícius Morais</a>
+</h4>
+
+
+
+
+
