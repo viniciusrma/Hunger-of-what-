@@ -30,10 +30,10 @@ In total, there will be four parts to this project:
 
 Here’s a quick overview of how Hunger Of What?! should function:
 
-A user will be ablt to:
-- be able search for restaurants, in any location;
-- be able to view a list of restaurants returned by the Yelp API;
-- be able to sort through restaurants using a filter.
+A user will be able to:
+- search for restaurants, in any location;
+- to view a list of restaurants returned by the Yelp API;
+- to sort through restaurants using a filter.
 
 <a  id="applied-technologies"></a>
 ## 💻 Applied technologies
@@ -41,7 +41,7 @@ A user will be ablt to:
 The project was developed using the following technologies:
 
 - [React](https://reactjs.org/)
-- [Bootstrap](https://getbootstrap.com/)
+- [CSS](https://www.w3schools.com/css/)
 
 <a  id="how-to-use"></a>
 ## ⁉ How to use
