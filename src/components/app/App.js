@@ -1,16 +1,16 @@
 import React from 'react';
-import logo from './logo.svg';
 import './App.css';
+import BusinessList from '../businesslist/BusinessList';
+import SearchBar from '../searchbar/SearchBar';
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <h1>Welcome to React</h1>
-      </header>
+      <h1>ravenous</h1>
+      <BusinessList />
+      <SearchBar />
     </div>
-  );
+  )
 }
 
 export default App;
