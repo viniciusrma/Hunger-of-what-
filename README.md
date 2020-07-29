@@ -25,7 +25,7 @@ In total, there will be four parts to this project:
 
 - Creating Static Components
 - Passing Information to Components
-- Setting the State of Ravenous Components
+- Setting the State of Components
 - Interacting with the Yelp API
 
 Here’s a quick overview of how Hunger Of What?! should function:
