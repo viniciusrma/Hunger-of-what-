@@ -20,9 +20,9 @@ class Business extends React.Component {
         <div className="image-container">
           <img src={business.imageSrc}  alt='' />
         </div>
-        <h2>{business.name}</h2>
         <div className="Business-information">
           <div className="Business-address">
+            <h2>{business.name}</h2>
             <p>{business.address}</p>
             <p>{business.city}</p>
             <p>{business.zipCode}</p>
@@ -30,7 +30,7 @@ class Business extends React.Component {
           <div className="Business-reviews">
             <h3>{business.category}</h3>
             <h3 className="rating">{business.rating}</h3>
-            <p>{business.reviewCount}</p>
+            <p>{business.reviewCount} reviews</p>
           </div>
         </div>
       </div>
