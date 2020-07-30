@@ -2,10 +2,10 @@
   display: flex;
   flex-direction: column;
   justify-content: center;
-  background-image: url('./background_search_desktop.png');
+  background-image: url('./background_search_desktop.jpg');
   background-size: cover;
   background-repeat: no-repeat;
-  height: 25rem;
+  height: 32.7rem;
 }
 
 .SearchBar-sort-options ul {
@@ -25,7 +25,7 @@
   font-family: Poppins;
   font-style: normal;
   font-weight: 600;
-  font-size: .83rem;
+  font-size: 1rem;
   transition: color .25s;
 }
 
@@ -46,13 +46,14 @@
 
 .SearchBar-fields input {
   width: 21rem;
+  height: 3rem;
   padding: .66rem 1rem;
   margin-right: 2.22rem;
   border: 1px solid #fff;
   box-shadow: 10px 10px 7px rgba(0, 0, 0, 0.25);
   border-radius: 15px;
-  font-size: .77rem;
-  font-family: Poppins;
+  font-size: .90rem;
+  font-family: Poppins, sans-serif;
   font-style: normal;
   font-weight: 600;
   color: #756F6F;
@@ -67,22 +68,21 @@
 }
 
 .SearchBar-submit a {
-  border-radius: 4px;
-  padding: .72rem 1.7rem;
+  padding: 15px 20px;
   background-color: #F11717;
   box-shadow: 10px 10px 7px rgba(0, 0, 0, 0.25);
-  border-radius: 15px;
+  border-radius: 20px;
   color: #EDE3E3;
   font-family: Poppins;
   font-style: normal;
   font-weight: 600;
-  font-size: 42px;
+  font-size: 1.5rem;
   transition: background-color .5s;
 }
 
 .SearchBar-submit a:hover {
   cursor: pointer;
-  background-color: #a7874b;
+  background-color: #F12F2F;
 }
 
 @media only screen and (max-width: 560px) {
