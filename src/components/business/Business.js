@@ -17,7 +17,7 @@ class Business extends React.Component {
           </div>
           <div className="Business-reviews">
             <h3>{this.props.business.category}</h3>
-            <h3 className="rating">{this.props.business.rating}</h3>
+            <h3 className="rating">{this.props.business.rating}<img id="star" src="https://i.ibb.co/4K33S1D/star.png" alt="star" /></h3>
             <p>{this.props.business.reviewCount} reviews</p>
           </div>
         </div>
