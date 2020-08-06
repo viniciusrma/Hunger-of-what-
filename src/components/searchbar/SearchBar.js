@@ -71,7 +71,7 @@ class SearchBar extends React.Component {
           <input placeholder="Where?" onChange={this.handleLocationChange}/>
         </div>
         <div className="SearchBar-submit">
-          <a onCLick={this.handleSearch} href='https://github.com/viniciusrma/hunger-of-what-' target="blank" >Let's Go</a>
+          <a onClick={this.handleSearch} >Let's Go</a>
         </div>
       </div>
     );
