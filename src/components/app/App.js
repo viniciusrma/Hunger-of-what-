@@ -12,7 +12,7 @@ class App extends React.Component {
       businesses: []
     };
 
-    this.searchYelp.bind(this);
+    this.searchYelp = this.searchYelp.bind(this);
   }
   
   searchYelp(term, location, sortBy) {

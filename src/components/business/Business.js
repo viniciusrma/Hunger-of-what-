@@ -13,12 +13,12 @@ class Business extends React.Component {
             <h2>{this.props.business.name}</h2>
             <p>{this.props.business.address}</p>
             <p>{this.props.business.city}</p>
-            <p>{this.props.business.zipCode}</p>
+            <p>{`${this.props.business.state} ${this.props.business.zipCode}`}</p>
           </div>
           <div className="Business-reviews">
-            <h3>{this.props.business.category}</h3>
+            <h3>{this.props.business.category.toUpperCase()}</h3>
             <h3 className="rating">{this.props.business.rating}<img id="star" src="https://i.ibb.co/4K33S1D/star.png" alt="star" /></h3>
-            <p>{this.props.business.reviewCount} reviews</p>
+            <p>{`${this.props.business.reviewCount} reviews`}</p>
           </div>
         </div>
       </div>
