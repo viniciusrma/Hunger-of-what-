@@ -21,19 +21,19 @@ Welcome!
 
 This is a website called “Hunger of what?!”, for searching for food and/or restaurants, based in React, in my very first project done in React and prototyped by myself.
 
-In total, there will be four parts to this project:
+In total, there are four parts on this project:
 
 - Creating Static Components ✅
-- Passing Information to Components ▶
-- Setting the State of Components
-- Interacting with the Yelp API
+- Passing Information to Components ✅
+- Setting the State of Components ✅
+- Interacting with the Yelp API ✅
 
-Here’s a quick overview of how Hunger Of What?! should function:
+Here’s a quick overview of how Hunger Of What?! function:
 
-A user will be able to:
+A user can:
 - search for restaurants, in any location;
-- to view a list of restaurants returned by the Yelp API;
-- to sort through restaurants using a filter.
+- view a list of restaurants returned by the Yelp API;
+- sort through restaurants using a filter.
 
 <a  id="applied-technologies"></a>
 ## 💻 Applied technologies
